@@ -65,7 +65,7 @@ entities:
 ![Entities View](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/vivaldi_HA3HuSB0Ki.png)
 ![Integration Details](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/vivaldi_2TanOBLvL1.png)
 ![Integration Hub](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/vivaldi_dvTpkZC8SX.png)
-![Entity Registration](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/vivaldi_DZPzF8rP9J.png)
+
 
 ## Troubleshooting
 If the integration does not load correctly:
