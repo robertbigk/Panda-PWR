@@ -61,10 +61,14 @@ entities:
 ```
 
 ## Screenshots
-![Entities View](sandbox:/mnt/data/vivaldi_HA3HuSB0Ki.png)
-![Integration Details](sandbox:/mnt/data/vivaldi_2TanOBLvL1.png)
-![Integration Hub](sandbox:/mnt/data/vivaldi_dvTpkZC8SX.png)
-![Entity Registration](sandbox:/mnt/data/BjNbiqsOPg.png)
+![Entities View](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/vivaldi_HA3HuSB0Ki.png)
+![Integration Details](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/vivaldi_2TanOBLvL1.png)
+![Integration Hub](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/vivaldi_dvTpkZC8SX.png)
+![Entity Registration](https://github.com/robertbigk/Panda-PWR/raw/main/pictures/BjNbiqsOPg.png)
+![Entities View](./assets/vivaldi_HA3HuSB0Ki.png)
+![Integration Details](./assets/vivaldi_2TanOBLvL1.png)
+![Integration Hub](./assets/vivaldi_dvTpkZC8SX.png)
+![Entity Registration](./assets/BjNbiqsOPg.png)
 
 ## Troubleshooting
 If the integration does not load correctly:
